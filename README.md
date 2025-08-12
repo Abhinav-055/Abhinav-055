@@ -6,8 +6,7 @@
 I'm a backend developer and low latency programming enthusiast.  
 
 ### About Me  
-- 🎓 Second-year B.Tech student at [Vellore Institute of Technology, Vellore](https://vit.ac.in).  
-- 💼 Currently interning at [Stride.ai](https://stride.ai/) as a backend developer.  
+- 🎓 Third-year B.Tech student at [Vellore Institute of Technology, Vellore](https://vit.ac.in).  
 - 💻 In my free time, I like to code, listen to music, and read books. 
 - 🚀 Learning various backend technologies.  
 - ❓ Ask me about Python, C++, Golang, Typescript or backend development.  
