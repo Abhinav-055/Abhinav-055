@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Third-year **B.Tech** student at [VIT Vellore](https://vit.ac.in) 
+- 🎓 Final year **B.Tech** student at [VIT Vellore](https://vit.ac.in) 
 - ⚡ Passionate about **backend development**, **distributed systems** & **low-latency programming**
 - 🏆 Active competitive programmer on LeetCode & Codeforces
 - 📫 Reach me at **abhinav05.aa@gmail.com**
