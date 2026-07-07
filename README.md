@@ -71,14 +71,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-055&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" height="170"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhinav-055&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
